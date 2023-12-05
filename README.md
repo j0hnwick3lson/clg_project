@@ -1,1 +1,1 @@
-# college yardstick course html codes
+# college-project yardstick web design course 
